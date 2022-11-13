@@ -25,4 +25,8 @@ Piotr Kropotkin
 
 **Cuidado e Manutenção**
 
-**Comunidade**
+__Comunidade__
+
+**Ver também**
+- [Wiki Movimento Brasil](https://wmnobrasil.org/)
+- [Projeto Mais Teoria da História na Wiki](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Projeto_Mais_Teoria_da_Hist%C3%B3ria_na_Wiki)
