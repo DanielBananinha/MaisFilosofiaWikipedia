@@ -1,5 +1,5 @@
 # Mais Filosofia na Wikipédia
-**Guia introdutório de edição na Wikipédia sujeitos filosofantes**
+**Guia introdutório de edição na Wikipédia para sujeitos filosofantes**
 >"_Cada descoberta, cada progresso, cada aumento da riqueza da humanidade, tem o seu princípio no conjunto do trabalho manual e cerebral do passado e do presente. Logo, com que direito poderia alguém apossar-se da menor parcela desse imenso patrimônio e dizer: 'Isto é meu, não é vosso'?_"
 Piotr Kropotkin
 
